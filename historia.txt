@@ -6,3 +6,5 @@ Actualmente vive en Canada
 Hoy hablaremos de su Historia
 
 En persona, se ve que es muy fuerte, pero en persona es muy sensible. 
+
+Hoy es un programador en Python. 
